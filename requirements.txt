@@ -10,7 +10,7 @@ dungeonsheets==0.10.2
 familiar==0.1.4
 fdfgen==0.16.1
 idna==2.10
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 npyscreen==4.10.5
 numpy==1.19.0
